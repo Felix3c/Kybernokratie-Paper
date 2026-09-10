@@ -4,7 +4,7 @@
 
 Felix Lind, Düsseldorf, 2026 · unter Mitarbeit von Claude (Anthropic)
 
-Fassung 0.7 vom 10.09.2026. Erstfassung 0.1 vom 28.08.2026. Arbeitsfassung; Preprint mit DOI folgt.
+Fassung 0.7 vom 10.09.2026. Erstfassung 0.1 vom 28.08.2026. Preprint, DOI: **[10.5281/zenodo.22685529](https://doi.org/10.5281/zenodo.22685529)**
 
 → **[Das Paper lesen: paper/PAPER.md](paper/PAPER.md)**
 
@@ -49,9 +49,10 @@ Der Stempel beweist, dass die Datei an dem Tag existierte. Die Erstfassung 0.1 t
 
 ## Zitieren
 
-Felix Lind (2026). *Institutionen ohne Gedächtnis. Kybernokratie: ein offenes Format, um öffentliche Stellen an ihren eigenen Prognosen zu messen — und die Regel, die daraus folgt.* Fassung 0.7, 10.09.2026. https://github.com/Felix3c/Kybernokratie-Paper
+Felix Lind (2026). *Institutionen ohne Gedächtnis. Kybernokratie: ein offenes Format, um öffentliche Stellen an ihren eigenen Prognosen zu messen — und die Regel, die daraus folgt.* Fassung 0.7, 10.09.2026. Zenodo. https://doi.org/10.5281/zenodo.22685529
 
-Maschinenlesbar in [`CITATION.cff`](CITATION.cff). Ein DOI folgt über Zenodo.
+Maschinenlesbar in [`CITATION.cff`](CITATION.cff). Auf Zenodo liegen PDF, Markdown, Prüfsumme und OpenTimestamps-Beleg dieser Fassung.
+Concept-DOI für alle Fassungen: https://doi.org/10.5281/zenodo.22685528
 
 ## Lizenz
 
