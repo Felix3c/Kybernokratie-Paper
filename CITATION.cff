@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "Wenn Sie dieses Paper zitieren, verwenden Sie bitte die folgenden Angaben."
+type: generic
+title: "Institutionen ohne Gedächtnis. Kybernokratie: ein offenes Format, um öffentliche Stellen an ihren eigenen Prognosen zu messen — und die Regel, die daraus folgt"
+authors:
+  - family-names: Lind
+    given-names: Felix
+    city: Düsseldorf
+    country: DE
+version: "0.7"
+date-released: 2026-09-10
+license: CC-BY-ND-4.0
+repository-code: "https://github.com/Felix3c/Kybernokratie-Paper"
+url: "https://github.com/Felix3c/Kybernokratie-Paper"
+abstract: >-
+  Öffentliche Institutionen treffen laufend datierte, zahlenmäßige Aussagen über die
+  Zukunft; fast keine davon wird später mit dem Eingetretenen verglichen. Das Paper
+  schlägt ein offenes, hostbares Format vor (das Wettbuch), das solche Aussagen
+  sammelt, nach Ablauf auflöst und per Brier-Score zu einer öffentlichen Trefferquote
+  je Institution verdichtet. Daraus folgt eine Regel für den Umgang mit maschinell
+  berechneten Empfehlungen (die Erwartungsklausel), die erst legitim wird, wenn ein
+  solches Buch über Jahre gefüllt ist. Die Ordnung, in der diese Regel gilt, heißt
+  Kybernokratie.
+keywords:
+  - Kybernokratie
+  - Wettbuch
+  - Prognosegüte
+  - Brier-Score
+  - Rechenschaft
+  - öffentliche Verwaltung
+  - Demokratie
+  - Erwartungsklausel
