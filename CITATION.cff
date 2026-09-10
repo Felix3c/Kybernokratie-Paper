@@ -1,22 +1,25 @@
 cff-version: 1.2.0
 message: "Wenn Sie dieses Paper zitieren, verwenden Sie bitte die folgenden Angaben."
 type: generic
-title: "Institutionen ohne Gedächtnis. Kybernokratie: ein offenes Format, um öffentliche Stellen an ihren eigenen Prognosen zu messen — und die Regel, die daraus folgt"
+title: "Kybernokratie: Demokratie mit Gedächtnis. Ein offenes Format, um öffentliche Stellen an ihren eigenen Prognosen zu messen, und die Regel, die daraus folgt"
 authors:
   - family-names: Lind
     given-names: Felix
     city: Düsseldorf
     country: DE
-version: "0.7"
+version: "0.8"
 date-released: 2026-09-10
 license: CC-BY-ND-4.0
-doi: 10.5281/zenodo.22685529
+doi: 10.5281/zenodo.22686099
 repository-code: "https://github.com/Felix3c/Kybernokratie-Paper"
-url: "https://doi.org/10.5281/zenodo.22685529"
+url: "https://doi.org/10.5281/zenodo.22686099"
 identifiers:
   - type: doi
+    value: 10.5281/zenodo.22686099
+    description: "Fassung 0.8 (Zenodo)"
+  - type: doi
     value: 10.5281/zenodo.22685529
-    description: "Fassung 0.7 (Zenodo)"
+    description: "Fassung 0.7, alter Titel (Zenodo)"
   - type: doi
     value: 10.5281/zenodo.22685528
     description: "Alle Fassungen (Concept-DOI)"

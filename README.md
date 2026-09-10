@@ -1,10 +1,10 @@
-# Institutionen ohne Gedächtnis
+# Kybernokratie: Demokratie mit Gedächtnis
 
-**Kybernokratie: ein offenes Format, um öffentliche Stellen an ihren eigenen Prognosen zu messen — und die Regel, die daraus folgt**
+**Ein offenes Format, um öffentliche Stellen an ihren eigenen Prognosen zu messen, und die Regel, die daraus folgt**
 
 Felix Lind, Düsseldorf, 2026 · unter Mitarbeit von Claude (Anthropic)
 
-Fassung 0.7 vom 10.09.2026. Erstfassung 0.1 vom 28.08.2026. Preprint, DOI: **[10.5281/zenodo.22685529](https://doi.org/10.5281/zenodo.22685529)**
+Fassung 0.8 vom 10.09.2026. Erstfassung 0.1 vom 28.08.2026. Preprint, DOI: **[10.5281/zenodo.22686099](https://doi.org/10.5281/zenodo.22686099)**
 
 → **[Das Paper lesen: paper/PAPER.md](paper/PAPER.md)**
 
@@ -30,6 +30,7 @@ Neben dem Paper liegen zwei Dateien, mit denen sich belegen lässt, dass genau d
 | Datei | Zweck |
 |---|---|
 | `paper/PAPER.md.sha256` | SHA-256-Prüfsumme der Datei |
+| `paper/PAPER-0.7.md.sha256`, `.ots` | Stempel der Fassung 0.7 (gleicher Text, alter Titel) |
 | `paper/PAPER.md.ots` | OpenTimestamps-Beleg (Bitcoin-verankert) |
 
 Prüfen:
@@ -49,10 +50,10 @@ Der Stempel beweist, dass die Datei an dem Tag existierte. Die Erstfassung 0.1 t
 
 ## Zitieren
 
-Felix Lind (2026). *Institutionen ohne Gedächtnis. Kybernokratie: ein offenes Format, um öffentliche Stellen an ihren eigenen Prognosen zu messen — und die Regel, die daraus folgt.* Fassung 0.7, 10.09.2026. Zenodo. https://doi.org/10.5281/zenodo.22685529
+Felix Lind (2026). *Kybernokratie: Demokratie mit Gedächtnis. Ein offenes Format, um öffentliche Stellen an ihren eigenen Prognosen zu messen, und die Regel, die daraus folgt.* Fassung 0.8, 10.09.2026. Zenodo. https://doi.org/10.5281/zenodo.22686099
 
 Maschinenlesbar in [`CITATION.cff`](CITATION.cff). Auf Zenodo liegen PDF, Markdown, Prüfsumme und OpenTimestamps-Beleg dieser Fassung.
-Concept-DOI für alle Fassungen: https://doi.org/10.5281/zenodo.22685528
+Concept-DOI für alle Fassungen: https://doi.org/10.5281/zenodo.22685528. Fassung 0.7 (alter Titel „Institutionen ohne Gedächtnis", gleicher Text): https://doi.org/10.5281/zenodo.22685529
 
 ## Lizenz
 

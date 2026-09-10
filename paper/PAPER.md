@@ -1,9 +1,9 @@
-# Institutionen ohne Gedächtnis
+# Kybernokratie: Demokratie mit Gedächtnis
 
-## Kybernokratie: ein offenes Format, um öffentliche Stellen an ihren eigenen Prognosen zu messen — und die Regel, die daraus folgt
+## Ein offenes Format, um öffentliche Stellen an ihren eigenen Prognosen zu messen, und die Regel, die daraus folgt
 
 Felix Lind, Düsseldorf · unter Mitarbeit von Claude (Anthropic)
-Fassung 0.7 — 10.09.2026. Erstfassung 0.1 vom 28.08.2026. Arbeitsfassung; Preprint mit DOI folgt.
+Fassung 0.8 — 10.09.2026. Erstfassung 0.1 vom 28.08.2026. Preprint. DOI dieser Fassung: 10.5281/zenodo.22686099 · alle Fassungen: 10.5281/zenodo.22685528
 
 ---
 
@@ -569,6 +569,10 @@ Fassungen 0.2 (Ich-Passagen noch Claudes Entwurf), 0.3 und 0.4 sowie 0.5 und 0.6
 abgenommen, drei unterschrieben und den vierten (Popper) selbst neu gesagt. In 0.5 hat Felix Abschnitt 5 unverändert unterschrieben, womit alle Ich-Passagen
 abgenommen sind; die zwei offenen Belege (Abschnitte 1 und 6.3) sind gefüllt und die zwei
 fehlenden Zahlen des Autors in Tabelle 8 eingetragen. In 0.6 ist der fünfte Einwand (Messung, Goodhart) in Abschnitt 7 ergänzt, der Satz dahinter
-von Felix diktiert; in 0.7 hat Felix diesen Satz in geglätteter Fassung abgenommen. Prüfsumme (SHA-256) und OpenTimestamps-Beleg liegen neben der
+von Felix diktiert; in 0.7 hat Felix diesen Satz in geglätteter Fassung abgenommen. Fassung 0.8, ebenfalls vom 10.09.2026, ändert gegenüber 0.7 nur den Kopf: Der Haupttitel
+lautet jetzt „Kybernokratie: Demokratie mit Gedächtnis" (vorher „Institutionen ohne
+Gedächtnis"), der Untertitel ist gekürzt, und der DOI steht in der Kopfzeile; Fassung 0.7
+ist unter 10.5281/zenodo.22685529 unverändert erhalten. Der Text der Abschnitte 1 bis 9 ist
+in 0.8 nicht angerührt. Prüfsumme (SHA-256) und OpenTimestamps-Beleg liegen neben der
 Datei im Repositorium; die Erstfassung 0.1 ist dort mit Commit vom 28.08.2026,
 11:41 Uhr, nachlesbar.
